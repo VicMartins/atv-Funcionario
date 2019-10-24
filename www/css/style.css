@@ -1,2 +1,12 @@
 /**/
-
+.jumbotron{
+  color:black;
+  background-color: white;
+  margin-top: 7vh;
+}
+.container{
+  background: silver;
+}
+.espaco{
+  background-color:black;
+}

@@ -1,12 +1,36 @@
 /**/
+.jumbotron menu{
+  color:black;
+  background-color: white;
+  margin-top: 12vh;
+  padding-left: 50px;
+  padding-bottom: 100px;
+}
 .jumbotron{
   color:black;
   background-color: white;
-  margin-top: 7vh;
+  margin-top: 10vh;
 }
 .container{
   background: silver;
+  padding-bottom: 100px;
 }
 .espaco{
   background-color:black;
+}
+img{
+  margin-left: 15vh; 
+}
+.buscar{
+  margin-left: 55%; 
+}
+#cadastrar{
+  margin-left: 15vh;
+}
+.voltar{
+  margin-left: -1vh;
+  margin-top:-3vh;
+}
+.botaoCadastrar{
+ margin-left: 15vh;
 }
